@@ -1,1 +1,1 @@
-git status
+print(1+3)
